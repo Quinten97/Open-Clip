@@ -1,6 +1,6 @@
 # Open-Clip
 
-Open-Clip is a PowerShell script that uses **Whisper**, **Google Gemini's API**, and **FFmpeg** to replicate the core functionality of *Opus Clip* — entirely on your local machine.
+Open-Clip is a PowerShell script that uses **Whisper**, **Google Gemini's API**, and **FFmpeg** to replicate the core functionality of *Opus Clip* — on your local machine.
 
 ## How It Works
 
