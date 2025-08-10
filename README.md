@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Quinten97/Open-Clip/refs/heads/main/OpenClip%20Logo.png" alt="OpenClip" width="300">
+</p>
+
 # Open-Clip
 
 Open-Clip is a PowerShell script that uses **Whisper**, **Google Gemini's API**, and **FFmpeg** to replicate the core functionality of *Opus Clip* — on your local machine.
